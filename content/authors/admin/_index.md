@@ -22,9 +22,9 @@ bio: My research interests include distributed AGN and Blazars.
 
 interests:
   - Active galactic nuclei (AGN) and Quasars
-  - Blazars: Temporal and Spectral Modeling
-  - Blazar-Neutrino Connection
-  - Disk-Jet coupling in Blazar
+  - Blazars Temporal and Spectral Modeling
+  - Blazar Neutrino Connection
+  - Disk Jet coupling in Blazar
   - Reverberation (BLR+Disk)
   - Cloudy Simulation to understand the Changing look AGN
 
