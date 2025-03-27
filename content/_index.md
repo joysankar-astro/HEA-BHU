@@ -11,7 +11,7 @@ sections:
         High Energy
         Astrophysics Group
       image:
-        filename: welcome.jpg
+        filename: header-astro.webp
       text: |
         <br>
         
