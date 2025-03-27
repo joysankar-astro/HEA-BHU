@@ -30,7 +30,7 @@ education:
       institution: Banaras Hindu University
       year: 2025
     - course: BSc in Physics
-      institution: University of Gour Banga
+      institution: Banaras Hindu University
       year: 2023
 
 # Social/Academic Networking
