@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raj Prince
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Raj
+last_name: Prince
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Astrophysics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Banaras Hindu University
+    url: 'https://www.bhu.ac.in/site/FacultyProfile/2_158?FA001388'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed AGN and Blazars.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Active galactic nuclei (AGN) and Quasars
+  - Blazars: Temporal and Spectral Modeling
+  - Blazar-Neutrino Connection
+  - Disk-Jet coupling in Blazar
+  - Reverberation (BLR+Disk)
+  - Cloudy Simulation to understand the Changing look AGN
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Astrophysics
+      institution: Raman Research Institute
+      year: 2020
+    - course: MSc in Physics
+      institution: Banaras Hindu University
+      year: 2014
+    - course: BSc in Physics
+      institution: Banaras Hindu University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +47,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:priraj@bhu.ac.in'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=bbqblCkAAAAJ&hl=en
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
